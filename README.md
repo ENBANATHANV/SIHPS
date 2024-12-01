@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date : 01/12/2024
+## Register Number : 24001750
+## Name : Enbanathan V
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,74 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. **Alumni Registration :** We Can Use college Register Number for login stage and upload id card photo to verify user is college alumni . it enables User-friendly registration processes and  stay connected with peers and the institution.
 
+2. **Networking Hub And Job portal :** Use Almabase platform To Stay Connect alumni based on shared interests, professions, and geographic locations, facilitating professional networking, mentorship, and collaboration opportunities. And LinkedIn For Recently Passed out Graduates , career opportunities, post job openings and unemployed alumni  To Grab The Job With Alumni Guiding . By intergating the linkedIn and almabase into single Dedicated section for Easy Access.
 
-## Proposed Solution / Architecture Diagram
+3. **Donation Portal And Alumni Directory   :** Donor management software separate section for donation . it is Secure mechanisms on both platforms for alumni to contribute donations easily and support various initiatives and projects undertaken by the college, fostering a culture of philanthropy And Separate portal to store alumni based on different criteria such as graduation year, field of study, industry, location, etc., promoting networking and community building. allowing all user to access alumni portal to explore the career options.
+
+4. **Success Story Tracking :** Firstly gather the success story from alumi.Then,Form the aduio book and make available for graduates.For more realistic create a short animation based on success story and it display  in index of site and moblie app Home page. it create connection between between alumni by listening and viewing.
+   
+5. **Events and Reunions :** developing a dedicated section for organizing alumni events, reunions, workshops, and professional development sessions to maintain engagement and connection between alumnu, held at the college . if some alumni work at aboard ,  we use VR technology to participate in reunion event for those alumni.
+   
+6. **Feedback and Surveys :** for getting feedback and surveys from everyone,Feedback widgets is the best way. In addition, Emoji rating surveys it becomes serveys interesting. provide feedback on their experiences, suggest improvements, and participate in surveys to help shape future initiatives of the association. 
+
+## Proposed Solution / ArchitectureAlmabase 
+
+![web sa-1](https://github.com/user-attachments/assets/2dd7b4ce-4098-4a60-8d2a-59555387cfbd)
+
 
 
 ## Use Cases
 
 
 ## Technology Stack
+**1.Front-End :**
 
+React,
+Next.js,
+Tailwind css.
+
+**2.Backend:**
+
+Node.js,
+Express.js,
+MongoDB,
+GraphQL
+
+**3.Authentication and Authorization:**
+
+Auth0,
+Cloud Platform,
+AWS,
+Google Cloud Platform (GCP).
+
+**Job portal and Donation:**
+Linkedin,
+Donor management system.
+
+
+**Networking Hub :**
+Almabase.
+
+**Payment Gateway:**
+UPL and Net banking(inside india),
+Stripe.
+
+
+**Email Service:**
+SendGrid.
+
+**Push Notifications:**
+Firebase Cloud Messaging (FCM): 
+
+**Analytics:**
+Google Analytics.
 
 ## Dependencies
 
+For Frontend and Backend : 25 days
+
+For Getting getting access from third party site : 25 days
+
+Budget : 1,00,000.
