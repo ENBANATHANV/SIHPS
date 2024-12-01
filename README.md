@@ -75,6 +75,10 @@ Firebase Cloud Messaging (FCM):
 **Analytics:**
 Google Analytics.
 
+**Mobile Application:**
+React Native (or Flutter / Xamarin).
+
+
 ## Dependencies
 
 For Frontend and Backend : 25 days
